@@ -32,7 +32,7 @@ body {
 .envelope {
   position: relative;
   width: 330px;
-  height: 315px; /* Mas mataas para sa message */
+  height: 300px; /* Mas mataas para sa message */
   background: pink;
   border-radius: 15px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
