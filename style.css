@@ -70,6 +70,13 @@ body {
   z-index: 1;
 }
 
+body {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
 .card:hover .message {
   top: 0%; 
 }
