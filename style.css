@@ -20,13 +20,13 @@ body {
 
 .card h1 {
   color: #ff69b4; /* Hot pink for header */
-  font-size: 28px;
-  margin-bottom: 16px;
+  font-size: 20px;
+  margin-bottom: 14px;
 }
 
 .card p {
   color: #333;
-  font-size: 16px;
+  font-size: 10px;
   line-height: 1.5;
 }
 
